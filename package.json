@@ -1,13 +1,13 @@
 {
   "name": "@hishprorg/iure-optio-nihil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "nareshkumarjaggi",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@hishprorg/eius-vero-dicta": "^1.0.0",
     "@hishprorg/perspiciatis-ratione-unde": "^1.0.0",
     "@hishprorg/sint-nam-consequuntur": "^1.0.0",
